@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="City">
+        <item>Keshod</item>
+        <item>Junagadh</item>
+        <item>Rajkot</item>
+        <item>Veraval</item>
+    </string-array>
+</resources>
